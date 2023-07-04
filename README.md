@@ -1,5 +1,5 @@
 ## About Me
-##### Frontend Developer
+##### Web Developer
 ##### Junior
 
 <br>
