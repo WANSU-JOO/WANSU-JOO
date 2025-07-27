@@ -20,7 +20,7 @@
 ### SCM
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANSU-JOO)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **WANSU-JOO/WANSU-JOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
