@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANSU-JOO)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
+
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=0:77E56F,60:10620A&height=200)
 
 <!--
