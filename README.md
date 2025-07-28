@@ -1,8 +1,5 @@
-![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=250)
-##### Junior
-
+![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=200)
 <br>
-
 ## Skills
 ### Frontend
 [<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
