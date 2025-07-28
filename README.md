@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=wave&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=400)
+![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=wave&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=300)
 ##### Junior
 
 <br>
