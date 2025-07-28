@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=200&fontAlignY=20)
+![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&&color=gradient&customColorList=5,30&desc=Web%20Developer&height=200&fontAlignY=40)
 <br>
 ## Skills
 ### Frontend
