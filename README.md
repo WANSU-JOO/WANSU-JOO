@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANSU-JOO)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=0:10620A,60:77E56F&height=200&)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=0:77E56F,60:10620A&height=200)
 
 <!--
 **WANSU-JOO/WANSU-JOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
