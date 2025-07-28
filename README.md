@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&&&color=40:77E56F,100:10620A&desc=Web%20Developer&height=200&fontAlignY=40&animation=scaleIn&fontAlign=70&descAlign=85)
+![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&color=40:77E56F,100:10620A&desc=Web%20Developer&height=200&fontAlignY=40&animation=scaleIn&fontAlign=70&descAlign=85)
 <br>
 ## Skills
 ### Frontend
@@ -17,6 +17,8 @@
 <img src="https://img.shields.io/badge/Subversion-809CC9?style=flat&logo=Subversion&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANSU-JOO)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=100:77E56F,40:10620A&height=200&)
 
 <!--
 **WANSU-JOO/WANSU-JOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
