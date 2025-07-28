@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=wave&&color=gradient&customColorList=0,2,2,5,30)
-##### Web Developer
+![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=wave&&color=gradient&customColorList=5,30&desc=Web Developer)
 ##### Junior
 
 <br>
