@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?text=WANSU-JOO&type=Waving&color=40:77E56F,100:10620A&desc=Web%20Developer&height=200&fontAlignY=40&animation=scaleIn&fontAlign=70&descAlign=85&stroke=FFFFFF&strokeWidth=2)
 
-<br>
-
 ## Skills
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -32,8 +30,6 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WANSU-JOO)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=0:77E56F,60:10620A&height=200)
 
